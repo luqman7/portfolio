@@ -1,7 +1,7 @@
 
 /* Add your profile image here */
 .Photo{
-    background-image: url('https://images.pexels.com/photos/3799821/pexels-photo-3799821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-image: url('https://media-exp1.licdn.com/dms/image/C5603AQGE9hx-kQ8LiQ/profile-displayphoto-shrink_800_800/0/1614785871458?e=1632355200&v=beta&t=ZOuAPM6YeEOnG_jTpaxng9m9Ey_dK-E_mbs5XDx3tYA');
 }
 /* Projects Photo */
 .project1{
@@ -13,31 +13,43 @@
     cursor: none;
 }
 .project3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
+    background-image: url('https://via.placeholder.com/400x600.png?text=FYP+web+app');
     cursor: none;
 }
 .project4{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
+    background-image: url('https://via.placeholder.com/400x600.png?text=Budget+planner');
     cursor: none;
 }
 .project5{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
+    background-image: url('https://via.placeholder.com/400x600.png?text=Forum+web+app');
     cursor: none;
 }
 .project6{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
+    background-image: url('https://via.placeholder.com/400x600.png?text=Currency+converter+bot');
     cursor: none;
 }
-/* Miscelaneous Activities photo */
-.misc1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
+.project7{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Jamil+bot');
     cursor: none;
 }
-.misc2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+two');
+.project8{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Dell+hackathon');
     cursor: none;
 }
-.misc3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
+.project9{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Netflix+clone');
     cursor: none;
+}
+.project10{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Tinder+clone');
+    cursor: none;
+}
+.project11{
+    background-image: url('https://via.placeholder.com/400x600.png?text=GO Rest API');
+    cursor: none;
+}
+
+/* Contact form parallax effect image */
+.parallax{
+    background-image: url('https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
 }

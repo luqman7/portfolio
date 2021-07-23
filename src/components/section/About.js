@@ -12,7 +12,7 @@ const About = () => {
                 <h1 id="About" className="red-line">{section2title}</h1>
                 </div>
                 <p className="lead about-text">
-                    {about.paragraph}  
+                        {about.paragraph}
                 </p>
             </div>
             </div>
